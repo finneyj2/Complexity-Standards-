@@ -47,7 +47,7 @@ that the attempt to run the program was effective.
 
 ## Documentation- All software should be properly documented and commented as to clearly convey
 
-the purpose of the code as outlined in the Assessment guidelines:
+The purpose of the code as outlined in the Assessment guidelines:
 Comments should focus on the developer’s thought process as they code. Understanding why the
 code exists the way it does is just as important as what the code does.
 Avoid redundancy and adding too many comments when commenting code. Comments should only be
