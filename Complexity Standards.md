@@ -13,14 +13,17 @@ minimize complexity by maximizing the clarity and ease of modification of GatorG
 *How to manage complexity in a software development project*
 
 ## Minimize Complexity by Maximizing Clarity: Follow Code Writing Conduct Standards
+
 Develop code in such a way that modification of the code is easy.
 
 ## Changeability Software will be easily changeable to allow for future scalability:
+
 Software must be easily changeable. If a change results in re-writing code or creating a new
 feature it can cause risks to the rest of the system. These frequent changes require software
 to be easily adjustable so that changes can be made efficiently.
 
 ## Uniqueness - Software shall not contain redundant features or code snippets:
+
 In an effort to reduce the total code base, redundant code or systems that perform similar
 actions should be recognized and taken out.
 Encapsulation - Software shall be structured such that related documents are grouped together:
@@ -43,8 +46,8 @@ The output of a program should clearly convey what the program does. Or at the v
 that the attempt to run the program was effective.
 
 ## Documentation- All software should be properly documented and commented as to clearly convey
-the purpose of the code as outlined in the Assessment guidelines:
 
+the purpose of the code as outlined in the Assessment guidelines:
 Comments should focus on the developer’s thought process as they code. Understanding why the
 code exists the way it does is just as important as what the code does.
 Avoid redundancy and adding too many comments when commenting code. Comments should only be
