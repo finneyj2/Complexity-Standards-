@@ -9,9 +9,8 @@ John defines complexity as anything “related to the structure of a software sy
 it hard to understand and modify the system.” To this end, the standards here will aim to
 minimize complexity by maximizing the clarity and ease of modification of GatorGrouper.
 
-Added
 
-How to manage complexity in a software development project
+*How to manage complexity in a software development project*
 
 ##Minimize Complexity by Maximizing Clarity: Follow Code Writing Conduct Standards
 Develop code in such a way that modification of the code is easy.
