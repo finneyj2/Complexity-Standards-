@@ -1,4 +1,4 @@
-## Patrick’s Intro
+# Patrick’s Intro
 
 This document serves to outline the standards of complexity agreed upon by the class in the
 development of the GatorGrouper tool. These standards are created and followed in order to
@@ -13,8 +13,7 @@ Added
 
 How to manage complexity in a software development project
 
-##Minimize Complexity by Maximizing Clarity
-Follow Code Writing Conduct Standards
+##Minimize Complexity by Maximizing Clarity: Follow Code Writing Conduct Standards
 Develop code in such a way that modification of the code is easy.
 
 ##Changeability Software will be easily changeable to allow for future scalability:
@@ -33,15 +32,21 @@ for greater readability and less time spent searching for relevant code.
 use-cases:
 In order to keep code understandable, there should be at first glance; a limited amount of
 ways in which it can be used. Constraints can be cultural, semantic, logical or physical
-Predictability - All software runs should have predictable and consistent outcomes:
+
+##Predictability - All software runs should have predictable and consistent outcomes:
+
 Every change should have a pre-evaluated outcome as the developer should be completely
 certain with their modifications. If a change effects elements outside the developers
 understanding it can cause unknown bugs and unwanted technical debt.
-Feedback/Output- All software should have output that clearly displays the function attempted:
+
+##Feedback/Output- All software should have output that clearly displays the function attempted:
+
 The output of a program should clearly convey what the program does. Or at the very least,
 that the attempt to run the program was effective.
-Documentation- All software should be properly documented and commented as to clearly convey
+
+##Documentation- All software should be properly documented and commented as to clearly convey
 the purpose of the code as outlined in the Assessment guidelines:
+
 Comments should focus on the developer’s thought process as they code. Understanding why the
 code exists the way it does is just as important as what the code does.
 Avoid redundancy and adding too many comments when commenting code. Comments should only be
