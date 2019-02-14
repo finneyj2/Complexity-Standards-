@@ -1,13 +1,15 @@
-# Complexity Guidelines 
+# Complexity Guidelines
 
-This document serves to outline the standards of complexity agreed upon by the class in the
-development of the GatorGrouper tool. These standards are created and followed in order to
-effectively implement GatorGrouper while minimizing the complexity of the code base. The
-definition of complexity we will use is taken from “A Philosophy of Software Design” by
-Chairman of Electric Cloud and Professor of Computer Science at Stanford, John Ousterhout.
-John defines complexity as anything “related to the structure of a software system that makes
-it hard to understand and modify the system.” To this end, the standards here will aim to
-minimize complexity by maximizing the clarity and ease of modification of GatorGrouper.
+This document serves to outline the standards of complexity agreed upon by the
+class in the development of the GatorGrouper tool. These standards are created
+and followed in order to effectively implement GatorGrouper while minimizing the
+complexity of the code base. The definition of complexity we will use is taken
+from “A Philosophy of Software Design” by Chairman of Electric Cloud and
+Professor of Computer Science at Stanford, John Ousterhout. John defines
+complexity as anything “related to the structure of a software system that makes
+it hard to understand and modify the system.” To this end, the standards here
+will aim to minimize complexity by maximizing the clarity and ease of
+modification of GatorGrouper.
 
 
 ## How to manage complexity in a software development project
