@@ -30,9 +30,9 @@ modification of GatorGrouper.
 
 3. Encapsulation -
 *Software shall be structured such that related documents are grouped together:*
-	- In order to keep code understandable, interacting code should be kept together.
-	This allows for greater readability and less time spent searching for relevant
-	code.
+	- In order to keep code understandable, interacting code should be kept
+	together. This allows for greater readability and less time spent searching
+	for relevant code.
 
 4. Constraints -
 *Software constraints should be clear to avoid confusing or arbitrary use-cases:*
@@ -63,7 +63,8 @@ the purpose of the code as outlined in the Assessment guidelines:*
 
 
 The purpose of the code as outlined in the Assessment guidelines:
-Comments should focus on the developer’s thought process as they code. Understanding why the
-code exists the way it does is just as important as what the code does.
-Avoid redundancy and adding too many comments when commenting code. Comments should only be
-used when the codes purpose couldn’t be easily discerned.
+Comments should focus on the developer’s thought process as they code.
+Understanding why the code exists the way it does is just as important as what
+the code does. Avoid redundancy and adding too many comments when commenting
+code. Comments should only be used when the codes purpose couldn’t be easily
+discerned.
